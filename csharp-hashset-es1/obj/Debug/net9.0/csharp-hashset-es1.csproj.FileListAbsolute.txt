@@ -1,0 +1,14 @@
+/Users/paoloorazi/Desktop/csharp-hashset-es1/csharp-hashset-es1/bin/Debug/net9.0/csharp-hashset-es1
+/Users/paoloorazi/Desktop/csharp-hashset-es1/csharp-hashset-es1/bin/Debug/net9.0/csharp-hashset-es1.deps.json
+/Users/paoloorazi/Desktop/csharp-hashset-es1/csharp-hashset-es1/bin/Debug/net9.0/csharp-hashset-es1.runtimeconfig.json
+/Users/paoloorazi/Desktop/csharp-hashset-es1/csharp-hashset-es1/bin/Debug/net9.0/csharp-hashset-es1.dll
+/Users/paoloorazi/Desktop/csharp-hashset-es1/csharp-hashset-es1/bin/Debug/net9.0/csharp-hashset-es1.pdb
+/Users/paoloorazi/Desktop/csharp-hashset-es1/csharp-hashset-es1/obj/Debug/net9.0/csharp-hashset-es1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/paoloorazi/Desktop/csharp-hashset-es1/csharp-hashset-es1/obj/Debug/net9.0/csharp-hashset-es1.AssemblyInfoInputs.cache
+/Users/paoloorazi/Desktop/csharp-hashset-es1/csharp-hashset-es1/obj/Debug/net9.0/csharp-hashset-es1.AssemblyInfo.cs
+/Users/paoloorazi/Desktop/csharp-hashset-es1/csharp-hashset-es1/obj/Debug/net9.0/csharp-hashset-es1.csproj.CoreCompileInputs.cache
+/Users/paoloorazi/Desktop/csharp-hashset-es1/csharp-hashset-es1/obj/Debug/net9.0/csharp-hashset-es1.dll
+/Users/paoloorazi/Desktop/csharp-hashset-es1/csharp-hashset-es1/obj/Debug/net9.0/refint/csharp-hashset-es1.dll
+/Users/paoloorazi/Desktop/csharp-hashset-es1/csharp-hashset-es1/obj/Debug/net9.0/csharp-hashset-es1.pdb
+/Users/paoloorazi/Desktop/csharp-hashset-es1/csharp-hashset-es1/obj/Debug/net9.0/csharp-hashset-es1.genruntimeconfig.cache
+/Users/paoloorazi/Desktop/csharp-hashset-es1/csharp-hashset-es1/obj/Debug/net9.0/ref/csharp-hashset-es1.dll
